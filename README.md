@@ -1,15 +1,26 @@
-```zsh
-pietrodev07@pietrodev07:~ $ npm run pietrodev07
-```
+# <div align="center">Hey,I'm PietroDev07!</div>  
+  
+***
 
-```csharp
-🎯 Discord: PietroDev07#0853
-🌐 Country: Italy
-💻 Languages: HTML, CSS, JavaScript
-🪟 OS: Windows 11
-⌨️ IDE: Visual Studio Code
-```
+- 🔭 I am currently working on my website.
+  
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+- 🌱 I’m currently coding in HTML, CSS and JavaScript.
+  
+
+- ❓  I am in love with coding websites and webapp
+  
+<br/>
+
+ ## ⚡Technologies
+- Front-end development <br> <br>
+[![](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
+- Project Management and CD/CI <br> <br>
+[![](https://skillicons.dev/icons?i=github,git&perline=3)](https://skillicons.dev)
+- Text Editors/IDEs <br> <br>
+[![](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
+- Social <br> <br>
+[![](https://skillicons.dev/icons?i=discord,twitter&perline=3)](https://skillicons.dev)
+
+Contact Me:
+[Discord](https://discord.com/users/982228551807942676)
