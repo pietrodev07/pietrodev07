@@ -19,8 +19,3 @@
 [![](https://skillicons.dev/icons?i=github,git&perline=3)](https://skillicons.dev)
 - Text Editors/IDEs <br> <br>
 [![](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
-- Social <br> <br>
-[![](https://skillicons.dev/icons?i=discord,twitter&perline=3)](https://skillicons.dev)
-
-Contact Me:
-[Discord](https://discord.com/users/982228551807942676)
