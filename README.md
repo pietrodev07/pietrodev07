@@ -8,7 +8,7 @@
 - 🌱 I’m currently coding in HTML, CSS and JavaScript.
   
 
-- ❓ I'm in love with coding websites and webapp
+- ❓ I love developing websites and web applications.
   
 <br/>
 
