@@ -1,14 +1,14 @@
-# <div align="center">Hey,I'm PietroDev07!</div>  
-  
-***
+# <div align="center">Hey, I'm PietroDev07!</div>  
 
-- 🔭 I am currently working on my website.
+<br>
+
+- 🔭 I'm currently working on projects.
   
 
 - 🌱 I’m currently coding in HTML, CSS and JavaScript.
   
 
-- ❓  I am in love with coding websites and webapp
+- ❓ I'm in love with coding websites and webapp
   
 <br/>
 
