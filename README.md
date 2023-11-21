@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on projects.
   
 
-- 🌱 I’m currently coding in HTML, CSS and JavaScript.
+- 🌱 I’m currently coding in React and TypeScript.
   
 
 - ❓ I love developing websites and web applications.
