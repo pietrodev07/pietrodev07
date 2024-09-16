@@ -16,7 +16,7 @@
 - Front-end development <br> <br>
 [![](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,angular,svelte,nextjs&perline=3)](https://skillicons.dev)
 - Backend development <br> <br>
-[![](https://skillicons.dev/icons?i=nodejs,express&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,express,prisma&perline=3)](https://skillicons.dev)
 - Databases <br> <br>
 [![](https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3)](https://skillicons.dev)
 - Project Management and CD/CI <br> <br>
